@@ -7,7 +7,9 @@ You may redistribute and modify this documentation under the terms of the CERN O
 
 OXC_Port_LEDs - README
 
-Files Included in OXC ROL_final.zip (all files must be included when redistributed):
+Files Included in OXC_Port_LEDs (all files must be included when redistributed):
+
+OXC Port_LED_gerber.zip 
 
 README.TXT -This file.
 
