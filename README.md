@@ -7,6 +7,10 @@ You may redistribute and modify this documentation under the terms of the CERN O
 
 OXC_Port_LEDs - README
 
+The resistors are 0603, the LED are 0805.     
+
+use this site https://ledcalculator.net/  pick resistors based on the LED you want to use
+
 Files Included in OXC_Port_LEDs (all files must be included when redistributed):
 
 OXC Port_LED_gerber.zip 
